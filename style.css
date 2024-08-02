@@ -13,10 +13,10 @@ body {
   color: var(--dark-blue);
 }
 
-/* .dark-mode {
+.dark-mode {
   background-color: #1f2e35;
   color: white;
-} */
+}
 
 a {
   text-decoration: none;
